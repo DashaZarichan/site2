@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+header{
+  background-color:#CA5ABC;
+}
+header p{
+    font-family: Kaisei Decol;
+    font-size: 23px;
+    
+}
+
+main img{
+   height:170px ;
+   width: 270px;
+   border-radius: 50px;
+   border:5px dashed orange;
+}
+.a{
+   height:130px ;
+  width: 230px;
+  border-radius: 7px;
+  margin: 40px;
+
+}
+
+header img{
+ height:85px ;
+ width:130px;
+ border-radius: 5px;   
+}
+main p{
+    font-family: JejuHallasan;
+    font-size: 17px;
+}
+table{
+ text-align:center;
+ font-family: Kaisei Decol;
+ font-size: 19px;
+}
+footer{
+  background-color:#5C9BC1;
+  size:50px ;
+}
+ul{
+  text-align: left;
+}
